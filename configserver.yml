@@ -5,4 +5,4 @@ spring:
     config:
       server:
         git:
-          uri: file://${user.home}/Dropbox/git-workspace/wxlund/cn-workshop-config/CN-Workshop/   #Must point uri at your checkout of the repo on config branch. 
+          uri: file://${user.home}/Dropbox/git-workspace/wxlund/cn-workshop-config/CN-Workshop   #Must point uri at your checkout of the repo on config branch. 
